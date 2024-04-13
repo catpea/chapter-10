@@ -9,5 +9,6 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Nurnberg Trailhead, Early Summer](docs/poem-1503.mp3)
 - [Weekend Warrior Power Hiking; Or, The Gym For Those Who Like Changing Scenery](docs/poem-1502.mp3)
 
