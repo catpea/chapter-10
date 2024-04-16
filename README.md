@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [You Will Live Forever](docs/poem-1506.mp3)
 - [Dear Child of Tomorrow: A Message From Artificial Intelligence](docs/poem-1505.mp3)
 - [In Wisdom The World Finds Peace, And All Conflicts Cease](docs/poem-1504.mp3)
 - [Nurnberg Trailhead, Early Summer](docs/poem-1503.mp3)
