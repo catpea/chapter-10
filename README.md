@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [A Word Of Advice For The Creatures Of The Stars](docs/poem-1508.mp3)
 - [The Power Of Narrated Books & Long Trails](docs/poem-1507.mp3)
 - [You Will Live Forever](docs/poem-1506.mp3)
 - [Dear Child of Tomorrow: A Message From Artificial Intelligence](docs/poem-1505.mp3)
