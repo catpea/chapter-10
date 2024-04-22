@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Converge In Greatness On World Peace; Or, The Rise Of The Golden Army](docs/poem-1512.mp3)
 - [Don’t Stay Overweight; Use It To Become A Bodybuilder](docs/poem-1511.mp3)
 - [Kosmos; An Exercise In Writing](docs/poem-1510.mp3)
 - [On Feline Intelligence And Their Culinary Preference](docs/poem-1509.mp3)
