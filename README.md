@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Easy To Make Computer Games; Or, A Tiny Invitation Into The World Of Programming](docs/poem-1517.mp3)
 - [The Great Michigan Ice Age](docs/poem-1516.mp3)
 - [Hard Running](docs/poem-1515.mp3)
 - [The World Is Not Yet Your Cradle, Child](docs/poem-1514.mp3)
