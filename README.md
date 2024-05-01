@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Sausage Is Adventure](docs/poem-1521.mp3)
 - [How To Cheer Up Your Kitten](docs/poem-1520.mp3)
 - [Creativity Backwards; Or, On Not Just Fixing Your Writer’s Block, But Making You A Better Writer](docs/poem-1519.mp3)
 - [Bodybuilding; So You Got Yourself An Interval Timer...](docs/poem-1518.mp3)
