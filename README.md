@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [No Pain, No Gain Is A Myth; Fitness And Bodybuilding Performed Correctly Is Not Painful](docs/poem-1524.mp3)
 - [Configuring Your Interval Timer For Success, And A Quick Note About Sugar](docs/poem-1523.mp3)
 - [How To Make The Best Of High School](docs/poem-1522.mp3)
 - [Sausage Is Adventure](docs/poem-1521.mp3)
