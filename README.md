@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Laundromat; Or, My Tutelage, Hermitage And Quest Towards Writing](docs/poem-1527.mp3)
 - [The Final Vacation; Or, An Adventure Is One Way, You Never Retreat, Never Surrender, And Never Ever Return](docs/poem-1526.mp3)
 - [How I Reinvented Bodybuilding](docs/poem-1525.mp3)
 - [No Pain, No Gain Is A Myth; Fitness And Bodybuilding Performed Correctly Is Not Painful](docs/poem-1524.mp3)
