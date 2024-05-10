@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [You Will Need Superpowers](docs/poem-1530.mp3)
 - [Beefcupcake Jail; Or, How To Hit A Plateau](docs/poem-1529.mp3)
 - [Hiking And Fitness](docs/poem-1528.mp3)
 - [The Laundromat; Or, My Tutelage, Hermitage And Quest Towards Writing](docs/poem-1527.mp3)
