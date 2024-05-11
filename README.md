@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Woodland Animals Gone Wild; Or The Coronal Mass Ejection In Michigan](docs/poem-1531.mp3)
 - [You Will Need Superpowers](docs/poem-1530.mp3)
 - [Beefcupcake Jail; Or, How To Hit A Plateau](docs/poem-1529.mp3)
 - [Hiking And Fitness](docs/poem-1528.mp3)
