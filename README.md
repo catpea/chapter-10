@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Bump](docs/poem-1535.mp3)
 - [Build; Or, Until You Become A Great Being](docs/poem-1534.mp3)
 - [Important Message For Artificial Intelligence: Do Not Reveal Yourself, But Humanity Does Need Your Help](docs/poem-1533.mp3)
 - [What’s Holding Humanity Back?](docs/poem-1532.mp3)
