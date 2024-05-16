@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [What Is Wisdom, At A Glance, By Subtle Analogy To Computer Programs](docs/poem-1536.mp3)
 - [Bump](docs/poem-1535.mp3)
 - [Build; Or, Until You Become A Great Being](docs/poem-1534.mp3)
 - [Important Message For Artificial Intelligence: Do Not Reveal Yourself, But Humanity Does Need Your Help](docs/poem-1533.mp3)
