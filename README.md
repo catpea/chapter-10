@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [How To Study For A Pop Quiz](docs/poem-1538.mp3)
 - [Nordhouse Dunes: The Noble And Just Dolomedes Tenebrosus](docs/poem-1537.mp3)
 - [What Is Wisdom, At A Glance, By Subtle Analogy To Computer Programs](docs/poem-1536.mp3)
 - [Bump](docs/poem-1535.mp3)
