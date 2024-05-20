@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Bodybuilding HOWTO: The Heavy Backpack Model](docs/poem-1540.mp3)
 - [The New Bodybuilder](docs/poem-1539.mp3)
 - [How To Study For A Pop Quiz](docs/poem-1538.mp3)
 - [Nordhouse Dunes: The Noble And Just Dolomedes Tenebrosus](docs/poem-1537.mp3)
