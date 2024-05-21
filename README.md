@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [You Are More Than You Think, And The Problem Of Humanity](docs/poem-1541.mp3)
 - [Bodybuilding HOWTO: The Heavy Backpack Model](docs/poem-1540.mp3)
 - [The New Bodybuilder](docs/poem-1539.mp3)
 - [How To Study For A Pop Quiz](docs/poem-1538.mp3)
