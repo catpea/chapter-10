@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Don't Ignore Programming](docs/poem-1544.mp3)
 - [Don't Let The Gym Overwhelm You Out Of A Healthy Lifestyle](docs/poem-1543.mp3)
 - [Nordhouse Dunes: The Tale Of Two Sticks](docs/poem-1542.mp3)
 - [You Are More Than You Think, And The Problem Of Humanity](docs/poem-1541.mp3)
