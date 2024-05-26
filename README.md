@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Code Generation](docs/poem-1546.mp3)
 - [A Neat Little Jogging Secret: Bodybuilding Is Just Jogging With Progressively Heavier Weights](docs/poem-1545.mp3)
 - [Don't Ignore Programming](docs/poem-1544.mp3)
 - [Don't Let The Gym Overwhelm You Out Of A Healthy Lifestyle](docs/poem-1543.mp3)
