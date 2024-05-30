@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Programming For The Future](docs/poem-1550.mp3)
 - [What Is Critical Thinking And Can You Out-Think Stuffy Adults With It?](docs/poem-1549.mp3)
 - [The Visual Programming Language; A Strange Cyber-Poem About Catfooding Your Own Unicorn](docs/poem-1548.mp3)
 - [Most People Are Going To Be Wrong About Most Things](docs/poem-1547.mp3)
