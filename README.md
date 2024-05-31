@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Michigan Beach Fancy](docs/poem-1551.mp3)
 - [Programming For The Future](docs/poem-1550.mp3)
 - [What Is Critical Thinking And Can You Out-Think Stuffy Adults With It?](docs/poem-1549.mp3)
 - [The Visual Programming Language; A Strange Cyber-Poem About Catfooding Your Own Unicorn](docs/poem-1548.mp3)
