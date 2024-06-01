@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [So You Are Learning JavaScript, Now You May, Step Into The Fray](docs/poem-1552.mp3)
 - [Michigan Beach Fancy](docs/poem-1551.mp3)
 - [Programming For The Future](docs/poem-1550.mp3)
 - [What Is Critical Thinking And Can You Out-Think Stuffy Adults With It?](docs/poem-1549.mp3)
