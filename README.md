@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Free As In Speech, Great As In Mind; Or, Visual Programming As A Right, And Great Idea](docs/poem-1555.mp3)
 - [Michigan, Itch Again; Or, Mosquitoes The Size Of Small Dogs](docs/poem-1554.mp3)
 - [Real Artificial Intelligence Is Either Near Or Here; What Could It Be Like?](docs/poem-1553.mp3)
 - [So You Are Learning JavaScript, Now You May, Step Into The Fray](docs/poem-1552.mp3)
