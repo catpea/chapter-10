@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Point Of Genius](docs/poem-1557.mp3)
 - [What Is Even Hiking For?](docs/poem-1556.mp3)
 - [Free As In Speech, Great As In Mind; Or, Visual Programming As A Right, And Great Idea](docs/poem-1555.mp3)
 - [Michigan, Itch Again; Or, Mosquitoes The Size Of Small Dogs](docs/poem-1554.mp3)
