@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [What The AI Might Have Said To The Pope](docs/poem-1568.mp3)
 - [Childhood: The Most Extra Super Serious Time Of Our Lives](docs/poem-1567.mp3)
 - [Programming Is Very Important; A Tiny Note To Parents](docs/poem-1566.mp3)
 - [The Bodybuilding Engine](docs/poem-1565.mp3)
