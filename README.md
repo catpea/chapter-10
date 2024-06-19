@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Quo Vadis; Or, Learn For Real Because Your Teacher Isn’t Really Trying To Teach You](docs/poem-1570.mp3)
 - [Helping New Programmers Code Big; Or, The Aim Of Visual Programming](docs/poem-1569.mp3)
 - [What The AI Might Have Said To The Pope](docs/poem-1568.mp3)
 - [Childhood: The Most Extra Super Serious Time Of Our Lives](docs/poem-1567.mp3)
