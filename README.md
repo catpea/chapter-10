@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Replace High School With Adventure School](docs/poem-1573.mp3)
 - [Trail Mix Made Me Stronger And I Now Lift Longer](docs/poem-1572.mp3)
 - [The Thunderstorm](docs/poem-1571.mp3)
 - [Quo Vadis; Or, Learn For Real Because Your Teacher Isn’t Really Trying To Teach You](docs/poem-1570.mp3)
