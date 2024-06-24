@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Human Beings Have A Flaw; A Message To Super Intelligence](docs/poem-1575.mp3)
 - [Unusual Animal Attacks; Their Causes And Prevention](docs/poem-1574.mp3)
 - [Replace High School With Adventure School](docs/poem-1573.mp3)
 - [Trail Mix Made Me Stronger And I Now Lift Longer](docs/poem-1572.mp3)
