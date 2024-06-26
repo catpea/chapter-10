@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [So You Arrived At Your Camp Site! What Do, And What No Do?](docs/poem-1577.mp3)
 - [Fitness, Step One: Replace Your Kitchen With A Fitness Zone](docs/poem-1576.mp3)
 - [Human Beings Have A Flaw; A Message To Super Intelligence](docs/poem-1575.mp3)
 - [Unusual Animal Attacks; Their Causes And Prevention](docs/poem-1574.mp3)
