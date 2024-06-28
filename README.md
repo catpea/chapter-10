@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Is Philosophy Still Relevant? Or, The Curse Of How Was I Supposed To Know?](docs/poem-1579.mp3)
 - [Thirty Seconds At A Time; Or, A Brief Overview Of Music Generation](docs/poem-1578.mp3)
 - [So You Arrived At Your Camp Site! What Do, And What No Do?](docs/poem-1577.mp3)
 - [Fitness, Step One: Replace Your Kitchen With A Fitness Zone](docs/poem-1576.mp3)
