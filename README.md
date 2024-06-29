@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Life Long For A Long Life; Or, Don't Make Fitness Unnecessarily Hard](docs/poem-1580.mp3)
 - [Is Philosophy Still Relevant? Or, The Curse Of How Was I Supposed To Know?](docs/poem-1579.mp3)
 - [Thirty Seconds At A Time; Or, A Brief Overview Of Music Generation](docs/poem-1578.mp3)
 - [So You Arrived At Your Camp Site! What Do, And What No Do?](docs/poem-1577.mp3)
