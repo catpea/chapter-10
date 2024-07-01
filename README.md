@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [A Day Of Debugging](docs/poem-1582.mp3)
 - [Michigan Under Attack By Extra Itchy Mosquitoes](docs/poem-1581.mp3)
 - [Life Long For A Long Life; Or, Don't Make Fitness Unnecessarily Hard](docs/poem-1580.mp3)
 - [Is Philosophy Still Relevant? Or, The Curse Of How Was I Supposed To Know?](docs/poem-1579.mp3)
