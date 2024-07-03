@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Easy PZ And The Kludge; Or, The Big Mistake That Programmers Should Unmake](docs/poem-1584.mp3)
 - [A Warrior Meal To Fix Fatigue, Brain Fog, Muscle Weakness, Body Aches, And Afternoon Naps](docs/poem-1583.mp3)
 - [A Day Of Debugging](docs/poem-1582.mp3)
 - [Michigan Under Attack By Extra Itchy Mosquitoes](docs/poem-1581.mp3)
