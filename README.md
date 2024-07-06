@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Avoid The Fitness Myths: It Is Not About How Heavy You Lift, But How Long You Lift Your Heavy For](docs/poem-1587.mp3)
 - [Your Authentic Intellectual Inheritance; A 4th Of July Special](docs/poem-1586.mp3)
 - [Harsh Fitness; Or, Become An Adventurer Because There Are No Obese Elderly](docs/poem-1585.mp3)
 - [Easy PZ And The Kludge; Or, The Big Mistake That Programmers Should Unmake](docs/poem-1584.mp3)
