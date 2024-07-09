@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Legacy And The Spire; A Note On The Importance Of Authentic Education](docs/poem-1590.mp3)
 - [TOP SECRET: Cat Installation Agency, Cataclysm Avoidance Plan: C](docs/poem-1589.mp3)
 - [What Is It Like Inside A Computer Program?](docs/poem-1588.mp3)
 - [Avoid The Fitness Myths: It Is Not About How Heavy You Lift, But How Long You Lift Your Heavy For](docs/poem-1587.mp3)
