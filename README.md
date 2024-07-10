@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Getting Ready To Become A Trainer That Creates Powerful Results](docs/poem-1591.mp3)
 - [The Legacy And The Spire; A Note On The Importance Of Authentic Education](docs/poem-1590.mp3)
 - [TOP SECRET: Cat Installation Agency, Cataclysm Avoidance Plan: C](docs/poem-1589.mp3)
 - [What Is It Like Inside A Computer Program?](docs/poem-1588.mp3)
