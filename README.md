@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Life After High School; Or, The Big Bada Boom](docs/poem-1595.mp3)
 - [Bodybuilding And Fitness Feedback Loops; Or Dance, Trail Mix, And Dumbbells](docs/poem-1594.mp3)
 - [Three; Or, Don't Let High School Slow You Down](docs/poem-1593.mp3)
 - [Rage For Wisdom; Or, Against The Hollow, Ineffective And Sideloaded](docs/poem-1592.mp3)
