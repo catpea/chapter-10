@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [JavaScript Starting Points; Or, Before Your First Hello World](docs/poem-1597.mp3)
 - [Don’t Let Life Stress You Out](docs/poem-1596.mp3)
 - [Life After High School; Or, The Big Bada Boom](docs/poem-1595.mp3)
 - [Bodybuilding And Fitness Feedback Loops; Or Dance, Trail Mix, And Dumbbells](docs/poem-1594.mp3)
