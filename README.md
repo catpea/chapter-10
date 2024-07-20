@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [How To Look Nice: The Slow Fitness Advice](docs/poem-1601.mp3)
 - [Do Not Forget Who You Are](docs/poem-1600.mp3)
 - [The Unbreakables](docs/poem-1599.mp3)
 - [Programmers, Inventors, and Wizards; Or, Life After Learning Programming](docs/poem-1598.mp3)
