@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Dare To Self Care](docs/poem-1604.mp3)
 - [Programming All The Things](docs/poem-1603.mp3)
 - [The Unusual Creatures Of My Suburbia](docs/poem-1602.mp3)
 - [How To Look Nice: The Slow Fitness Advice](docs/poem-1601.mp3)
