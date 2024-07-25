@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Holiday Mischief; Or, A Tiny Little The Last Minute Thanksgiving Gift](docs/poem-1606.mp3)
 - [Three Shrieks At Nordhouse Dunes](docs/poem-1605.mp3)
 - [Dare To Self Care](docs/poem-1604.mp3)
 - [Programming All The Things](docs/poem-1603.mp3)
