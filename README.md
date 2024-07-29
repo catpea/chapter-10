@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Programming Has Teeth](docs/poem-1610.mp3)
 - [Adventure And Wisdom](docs/poem-1609.mp3)
 - [The Future Of Programming, Where Everyone Can Create Beautiful Applications](docs/poem-1608.mp3)
 - [Muscles Like A Chimpanzee, But Is This Really The Right Look For Me?](docs/poem-1607.mp3)
