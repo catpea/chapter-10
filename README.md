@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Programming Data Structures; Or, Inventing A Machine That Is Already Old And Wrong](docs/poem-1616.mp3)
 - [Food, Body, And Mind; A Picture Of A Simple Integrated Workout](docs/poem-1615.mp3)
 - [Think Of Your Body As An Animal](docs/poem-1614.mp3)
 - [Why Do Some Students Get Worse Grades Than Others](docs/poem-1613.mp3)
